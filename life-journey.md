@@ -2,8 +2,10 @@
 layout: single
 title: "Life & Journey"
 permalink: /life-journey/
-toc: true
-toc_sticky: true
+toc: false
+sidebar:
+  nav: "life-journey"
+  position: left
 ---
 
 # Life & Journey of Bhai Inderjeet Singh Ji  
