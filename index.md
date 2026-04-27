@@ -30,9 +30,8 @@ excerpt: "This website honours the life, journey, and seva of Bhai Inderjeet Sin
     font-size: 2.2rem;
     font-weight: 600;
     padding: 1rem;
-  ">
-    ੴ ਸਤਿਨਾਮੁ ਕਰਤਾ ਪੁਰਖੁ
-  </div>
+  "
+    </div>
 </div>
 
 
