@@ -24,5 +24,17 @@ defaults:
     path: ""
   values:
     author_profile: true
+defaults:
+  - scope:
+      path: ""
+    values:
+      author_profile: true
+
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      sidebar:
+        position: left
 
 search: true
