@@ -9,8 +9,6 @@ toc: false
 ---
 
 
-
-# Life & Journey of Bhai Inderjeet Singh Ji  
 *A Spiritual Biography*
 
 ---
