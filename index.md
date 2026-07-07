@@ -70,12 +70,6 @@ This space is a reflection of that journey — not just as a musician, but as a 
 
 ---
 
-## 📸 Moments
-
-![Dad Image 1](/assets/images/dad1.jpg)
-
-![Dad Image 2](/assets/images/dad2.jpg)
-
 ---
 
 ### Thank you for visiting
