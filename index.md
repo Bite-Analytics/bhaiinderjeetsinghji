@@ -39,9 +39,9 @@ excerpt: "This website honours the life, journey, and seva of Bhai Inderjeet Sin
   ੴ
 </div>
 
-<div style="text-align:left; font-size: 2.2rem; margin-bottom: 0.5rem;">
-🙏
-</div>
+<!-- <div style="text-align:left; font-size: 2.2rem; margin-bottom: 0.5rem;">
+
+</div> -->
 
 **Welcome** 
 
