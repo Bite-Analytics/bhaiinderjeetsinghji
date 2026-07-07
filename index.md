@@ -46,7 +46,7 @@ excerpt: "This website honours the life, journey, and seva of Bhai Inderjeet Sin
 **Welcome** 
 
 This website is dedicated to the life, journey, 
-and seva of **Bhai Inderjeet Singh Ji**, created to preserve and share his legacy
+and seva of **Bhai&nbsp;Inderjeet&nbsp;Singh&nbsp;Ji**, created to preserve and share his legacy
 for future generations.
 
 It brings together memories, moments, and milestones that reflect his experiences and the people around him.
