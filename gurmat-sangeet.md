@@ -8,7 +8,7 @@ author_profile: true
 
 <div style="text-align: justify;" markdown="1">
   
-## What is Gurmat Sangeet?
+-- ## What is Gurmat Sangeet?
 
 Gurmat Sangeet is not simply music, and it is not Shastriya Sangeet, the highly notational form of Indian classical music. Gurmat Sangeet is music infused with **Gurbani** and its meaning. It promotes a disciplined lifestyle, good ethics, and living in tune with the Lord and His Hukam (command).
 
