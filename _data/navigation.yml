@@ -8,6 +8,9 @@ main:
   - title: "Gurmat Sangeet"
     url: /gurmat-sangeet/
 
+  - title: "Gallery"
+    url: /gallery/
+
   - title: "YouTube"
     url: "https://www.youtube.com/@ISRAGI"
 
