@@ -65,12 +65,12 @@ author_profile: true
 <!-- LIGHTBOXES: one block per photo, id must match the thumbnail's href above. -->
 <div id="img1" class="lightbox">
   <a href="#" class="lightbox-close">&times;</a>
-  <img src="/images/gallery/photo1.jpg" alt="Gallery photo 1">
+  <img src="/images/gallery/Photo1.jpg" alt="Gallery photo 1">
 </div>
 
 <div id="img2" class="lightbox">
   <a href="#" class="lightbox-close">&times;</a>
-  <img src="/images/gallery/photo2.jpg" alt="Gallery photo 2">
+  <img src="/images/gallery/Photo2.jpg" alt="Gallery photo 2">
 </div>
 
 <!--
