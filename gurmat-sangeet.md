@@ -30,4 +30,10 @@ Over the last century, much of Sikh kirtan shifted toward simpler, harmonium-led
 
 It is this living, disciplined, deeply spiritual tradition that **Bhai Inderjeet Singh Ji** has dedicated his life to — a path of Kirtan and seva rooted not in performance, but in devotion.
 
+It is this living, disciplined, deeply spiritual tradition that Bhai Inderjeet Singh Ji has dedicated his life to — a path of Kirtan and seva rooted not in performance, but in devotion.
+
+Bhai Inderjeet singh Ji emphasised Gurbani over the Sangeet — yet never as one apart from the other. For him, the shabad and the music went hand in hand, each carrying the other so that the core message could be truly conveyed in purity and Gurbani remains superior.
+
+Bhai Inderjeet Singh Ji often said that Kirtan is not a skill. It is a virtue, gifted only to the blessed.
+
 </div>
