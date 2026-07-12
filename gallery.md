@@ -58,8 +58,8 @@ author_profile: true
 
 <!-- THUMBNAILS: one <a><img></a> per photo. href="#imgN" must match the id="imgN" of its lightbox block below. -->
 <div class="gallery-grid">
-  <a href="#img1"><img src="/images/gallery/photo1.png" alt="Gallery photo 1"></a>
-  <a href="#img2"><img src="/images/gallery/photo2.png" alt="Gallery photo 2"></a>
+  <a href="#img1"><img src="/images/gallery/Photo1.png" alt="Gallery photo 1"></a>
+  <a href="#img2"><img src="/images/gallery/Photo2.png" alt="Gallery photo 2"></a>
 </div>
 
 <!-- LIGHTBOXES: one block per photo, id must match the thumbnail's href above. -->
